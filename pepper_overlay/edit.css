@@ -1,0 +1,14 @@
+.controller.xbox {
+    background: url(base.png);
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.xbox .button {
+    position: absolute;
+    background: url(https://imgur.com/GsXO23j.png);
+    width: 48px;
+    height: 48px;
+}
