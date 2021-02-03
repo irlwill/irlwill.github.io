@@ -1,0 +1,17 @@
+.xbox.white {
+    background: url(base-white.png);
+}
+
+.xbox .button {
+    position: absolute;
+    background: url(abxy.png);
+    width: 48px;
+    height: 48px;
+}
+
+.xbox .back, .xbox .start {
+    background: url(start-select.svgz);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
