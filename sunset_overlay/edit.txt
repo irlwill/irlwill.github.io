@@ -1,0 +1,25 @@
+.controller.ds4 {
+    background: url(base.png);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(face.png);
+}
+
+
+.ds4 .stick {
+    position: absolute;
+    background: url(sticks.png);
+    height: 94px;
+    width: 94px;
+}
+
+
