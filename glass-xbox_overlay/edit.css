@@ -33,7 +33,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks3.png);
+    background: url(sticks3.png); //lol
     height: 94px;
     width: 94px;
 }
